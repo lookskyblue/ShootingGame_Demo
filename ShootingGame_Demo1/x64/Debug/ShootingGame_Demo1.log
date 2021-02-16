@@ -1,0 +1,32 @@
+﻿  ShootingGame_Demo1.cpp
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\Obj.h(30,1): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(219,131): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(219,116): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(219,82): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(219,48): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(330,34): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(331,40): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(336,34): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(337,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(342,34): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(343,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(348,34): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(349,42): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(358,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(358,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(358,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(358,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(365,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(365,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(365,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(365,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(370,37): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(371,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(371,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(371,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(371,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(422,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(422,55): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(422,40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우성\source\repos\ShootingGame_Demo1\ShootingGame_Demo1\ShootingGame_Demo1.cpp(422,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShootingGame_Demo1.vcxproj -> C:\Users\우성\source\repos\ShootingGame_Demo1\x64\Debug\ShootingGame_Demo1.exe
