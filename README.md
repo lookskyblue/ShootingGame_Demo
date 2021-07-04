@@ -5,5 +5,6 @@ Shooting Game (Demo)
 
 > ## Description
 > 1. I made it based on a window API.
-> 2. Ceated date: 2021-02-15
-> 3. It's just a demo game
+> 2. You have to hit the monster(white box) twice to kill it.
+> 3. Ceated date: 2021-02-15
+> 4. It's just a demo game
